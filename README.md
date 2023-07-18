@@ -5,4 +5,5 @@
 > New York
 ## What is the name of your pet?
 > Scooby
-## Your band name is: New York Scooby
+## Your band name is:
+New York Scooby
